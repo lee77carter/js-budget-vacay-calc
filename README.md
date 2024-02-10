@@ -1,6 +1,6 @@
 # js-budget-vacay-calc
 
-![alt-text-here](img/calc.png)
+![alt-text-here](img/vacay-snapshot.png)
 
 
 A vacation app designed to assist with trip budgeting.
