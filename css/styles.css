@@ -12,15 +12,15 @@ body {
   font-size: 16px;
   font-family: "Noto Sans Bengali", sans-serif;
   font-weight: bold;
-  background-color: #fdf2f4;
-  color: #000000;
-  margin: 0;
+  background-color: #77c0e7;
+  background-image: url("../img/background.png");
 }
 
 img {
   max-width: 100%;
   height: auto;
-  border: 16px solid white;
+  border: 7px solid #e2dedb;
+  border-radius: 16px;
 }
 
 .container {
@@ -32,7 +32,7 @@ img {
 
 h3 {
   width: 80%;
-  color: #000000;
+  color: #514034;
   font-weight: 900;
   font-size: 24px;
   font-style: normal;
@@ -42,7 +42,7 @@ h3 {
 }
 
 .daily-budget {
-  color: #000000;
+  color: #514034;
   line-height: 1.5;
   font-size: 16px;
   font-weight: 400;
@@ -50,16 +50,17 @@ h3 {
 }
 
 button {
-  background-color: #4d2673;
+  background-color: #514034;
+  color: #dad6d6;
+  border-radius: 10px;
   padding: 16px 78px;
   margin: 1.8em 0 1em 0;
   outline: 0;
   border: 0;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 800;
   line-height: 1.6;
-  color: #ffffff;
   text-transform: uppercase;
 }
 
